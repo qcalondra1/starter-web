@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alondra Quinones alondra@git.training @awesomeaq
 
 # THANKS
 
